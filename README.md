@@ -48,6 +48,7 @@
 - **Software Testing**:
   - **Manual Testing**: Extensive experience in executing test cases and finding defects.
   - **Automation Testing**: Proficient in writing and executing automated test scripts.
+  - **Regression Testing**: Experience determining the right time and tests to effectively perform regression testing.
 
 - **Testing Processes and Practices**:
   - **CI/CD**: Knowledge in setting up and managing continuous integration and delivery pipelines.
